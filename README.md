@@ -1,2 +1,2 @@
 # HTML
-This repository is generated forHTML Pactice Project
+This repository is generated for HTML Pactice Project
